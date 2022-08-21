@@ -1,0 +1,12 @@
+ctrl-shift-p to open command palette
+
+    Codespaces: Add Development Container Configuration Files
+    
+        pick as needed
+        
+rebuild container
+
+commit/push
+
+
+
